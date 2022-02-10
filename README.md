@@ -16,10 +16,11 @@ Inside this file you will find instructions about the Kata, or you can read the 
 
 Once you know what the kata is asking of you, fill the `change_to_upper` function inside the file with the code you think will solve the kata.
 
-When you are happy with your solution try it out.To see if your solution works run in your terminal:
+To see if your solution works run in your terminal:
 
 `python change_to_upper_unittest.py`
 
+No need to import the function into the testing file (we have already done it for you - make sure you don't change the name of the function)
 If all tests pass you will see printed `OK` in your terminal, if not, you will see `FAILED`.
 
 Keep trying until you have a working solution!
