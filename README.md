@@ -32,6 +32,6 @@ Keep trying until you have a working solution!
 
 ### Examples:
 
-`change_to_upper(["apple", "banana"], 1)` should return `["apple", "BANANA"]`
-`change_to_upper(["apple", "banana"], 2)` should return `["APPLE", "BANANA"]`
-`change_to_upper(["apple", "banana"], -1)` should return `["APPLE", "BANANA"]`
+- `change_to_upper(["apple", "banana"], 1)` should return `["apple", - - "BANANA"]`
+- `change_to_upper(["apple", "banana"], 2)` should return `["APPLE", "BANANA"]`
+- `change_to_upper(["apple", "banana"], -1)` should return `["APPLE", "BANANA"]`
