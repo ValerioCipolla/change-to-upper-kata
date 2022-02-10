@@ -7,16 +7,5 @@
 # change_to_upper(["apple", "banana"], -1)` should return `["APPLE", "BANANA"]
 
 def change_to_upper(array, index):
-  if index >= len(array):
-    newList = []
-    for x in array:
-      newList.append(x.upper())
-    return newList
-  elif index < 0:
-    newList = []
-    for x in array:
-      newList.append(x.upper())
-    return newList
-  else:
-    array[index] = array[index].upper()
-    return array
+  #YOUR CODE GOES HERE
+  return 1
