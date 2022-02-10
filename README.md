@@ -16,7 +16,7 @@ Inside this file you will find instructions about the Kata, or you can read the 
 
 Once you know what the kata is asking of you, fill the `change_to_upper` function inside the file with the code you think will solve the kata.
 
-To see if your solution works run in your terminal:
+To see if your solution works run in your terminal (inside the folders where the files are):
 
 `python change_to_upper_unittest.py`
 
