@@ -2,7 +2,7 @@
 
 Thanks for checking out our kata. We created this to cement our Python skills (after only 5 hours of learning!).
 
-To play please make sure you have a version of Python install on your machine by typing in your terminal
+To play please make sure you have a version of Python installed on your machine by typing in your terminal
 
 `python --version`
 
